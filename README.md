@@ -2,6 +2,8 @@
 
 This project watches your Chess dot com board on screen, reads the position with YOLO models, turns that into a FEN string, and then asks Stockfish for the best move. The move and FEN are drawn right on top of the live video.
 
+CHESSCOMBOARD.pt not included due to file size.
+
 ## Features
 
 - Detects the Chess dot com board area with a YOLO board model
